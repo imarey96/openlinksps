@@ -1,0 +1,1 @@
+start /b powershell -executionpolicy bypass -file "open.ps1"
